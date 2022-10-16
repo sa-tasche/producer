@@ -1,7 +1,9 @@
-.idea/
-vendor/
-node_modules/
-composer.lock
+**/.idea
+**/.vs
+**/.vscode
+**/vendor
+**/node_modules
+**/temp
+*.lock
 producer.log
-/tests/temp/*
-!tests/temp/.gitkeep
+**/.gitkeep
