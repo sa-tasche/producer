@@ -1,0 +1,11 @@
+{
+    "parser": "babel-flow",
+    "endOfLine": "lf",
+    "tabWidth": 4,
+    "semi": false,
+    "quoteProps": "as-needed",
+    "trailingComma": "es5",
+    "bracketSpacing": false,
+    "htmlWhitespaceSensitivity": "strict",
+    "jsxBracketSameLine": true
+}
